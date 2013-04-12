@@ -1,0 +1,18 @@
+.admin-column {
+	background: #eee;
+	border: 1px solid #ccc;
+	-webkit-border-radius: 5px;
+	-mox-border-radius: 5px;
+	border-radius: 5px;
+
+	margin-bottom: 5px;
+	padding: 5px;
+}
+
+.menu-select {
+	width: 120px;
+}
+
+.color {
+	width: 75px;
+}

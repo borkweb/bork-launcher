@@ -1,0 +1,79 @@
+{
+	"general": {
+		"type": "inverse",
+		"sites": [
+			{
+				"title": "All Recipes",
+				"url": "http://allrecipes.com"
+			},
+			{
+				"title": "Facebook",
+				"url": "https://facebook.com"
+			},
+			{
+				"title": "Google+",
+				"url": "https://plus.google.com/+"
+			},
+			{
+				"title": "Weather",
+				"url": "http://forecast.weather.gov/MapClick.php?CityName=Plymouth&state=NH&site=GYX&lat=43.7386&lon=-71.6983"
+			},
+			{
+				"title": "DeviantArt",
+				"url": "http://deviantart.com",
+				"type": "warning"
+			},
+			{
+				"title": "Drawing (textures)",
+				"url": "http://cgtextures.com/",
+				"type": "warning"
+			},
+			{
+				"title": "Penny Arcade",
+				"url": "http://penny-arcade.com",
+				"type": "warning"
+			},
+			{
+				"title": "Skadi",
+				"url": "http://skadicomic.com",
+				"type": "warning"
+			}
+		]
+	},
+	"entertainment": {
+		"type": "danger",
+		"sites": [
+			{
+				"title": "HBO Go",
+				"url": "http://hbogo.com"
+			},
+			{
+				"title": "Hulu",
+				"url": "http://hulu.com"
+			},
+			{
+				"title": "Netflix",
+				"url": "http://netflix.com"
+			},
+			{
+				"title": "YouTube",
+				"url": "http://youtube.com"
+			},
+			{
+				"title": "Northway",
+				"url": "https://cm.netteller.com/login/Authentication/Views/Login.aspx?fi=NORTHWAYBANK&bn=c802c178c5e09885&burlid=adbf0e9530caa6f0",
+				"type": "success"
+			},
+			{
+				"title": "Mint",
+				"url": "http://mint.com",
+				"type": "success"
+			},
+			{
+				"title": "Mint Credit Report",
+				"url": "http://credit.mint.com",
+				"type": "success"
+			}
+		]
+	}
+}
